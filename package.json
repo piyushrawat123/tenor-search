@@ -1,0 +1,11 @@
+{
+  "name": "git-search",
+  "version": "1.0.0",
+  "description": "search for gif file",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Piyush Rawat",
+  "license": "ISC"
+}
